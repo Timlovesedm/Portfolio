@@ -1,4 +1,4 @@
-name,ticker,weight
+investor,ticker,weight
 Warren Buffett,AAPL,0.4
 Warren Buffett,BAC,0.3
 Warren Buffett,CVX,0.3
